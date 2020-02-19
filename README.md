@@ -1,4 +1,4 @@
-# data_viz
+# Let's Get Visual
 
 Collection of data visualization methods for open data sets
 
