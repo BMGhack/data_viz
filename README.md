@@ -1,46 +1,43 @@
 # Let's Get Visual
 
-Collection of data visualization methods for open data sets
-
-## Animal Care & Control Data
-
-https://mginda.github.io/bmghack-animalcontrol/index.html  
-https://github.com/mginda/bmghack-animalcontrol/  
-
-### Presentation Deck
-https://drive.google.com/open?id=105NebTmiaJ0tYjBqupWNYged4lWDa09ir3IyhVBxMD8
+A collection of data visualization methods for open data sets. 
 
 
-## Graffiti Data
+## Data
 
-### Presentation Deck
-https://drive.google.com/open?id=1Ni0k_WGriS9Ss3T2JRlW_uDhD18AFEfzxVEQPkvsDb4
+Data is being sourced from the City of Bloomington's Data Portal:
 
-
-## Mobility Data
-
-### Presenation Deck
-https://drive.google.com/open?id=1KzaKYiHjv2Ro59sAXB9AsSx-gMObKYIEMJB94L5V3tI
+https://data.bloomington.in.gov/
 
 
-## Neighborhood Grants Data
+## Tool Sets
 
-### Presentation Deck
-https://docs.google.com/presentation/d/1V39j2c9f8l63uog8zF2ThbkCMVe1AXZLQDkIYLk1ln4/edit?usp=sharing
+### R
+
+[Animal Care & Control](animals/)
+
+### Python
+
+[Graffiti](graffiti/)
+
+### Excel
+
+### Tableau
+
+### Microsoft BI
+
+### [add yours here!]
 
 
-## Nuisance / Public Safety Data
+## TODO
 
-### Presentation Deck
-https://drive.google.com/open?id=1eXPpQAxta1V1BN_8qx8uF1D56YO4BVEFm84cqasXqjw
+[Mobility](mobility/)
 
+[Neighborhood Grants Data](neighborhoods/)
 
-## Potholes, Trails, Stormwater Data
+[Nuisance / Public Safety Data](citations/)
 
-### Presenation Deck
-https://drive.google.com/open?id=1IxXYpfQ-sxmKBht1Nsg5UjEhecpUi2qUJob86AqSP98
-
+[Potholes, Trails, Stormwater Data](streets/)
 
 
 
-Created using [R Markdown](https://rmarkdown.rstudio.com/)
