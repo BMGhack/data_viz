@@ -4,11 +4,6 @@ In this visualization, we'll be looking at the graffiti report
 
 https://data.bloomington.in.gov/dataset/graffiti-reports
 
-Download the dataset to your local machine for reading in. 
-```bash
-wget https://data.bloomington.in.gov/dataset/08557e0d-74a6-48e9-9578-e9210973886c/resource/c0bf9039-7736-4ea5-8191-cdf821f304f5/download/graffiti.csv
-```
-
 ## Presentation Deck
 https://drive.google.com/open?id=1Ni0k_WGriS9Ss3T2JRlW_uDhD18AFEfzxVEQPkvsDb4
 
